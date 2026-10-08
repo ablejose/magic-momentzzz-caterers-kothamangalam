@@ -1,0 +1,59 @@
+{
+  "slug": "magic-momentzzz-caterers-kothamangalam",
+  "name": "Magic Momentzzz Caterers",
+  "shortName": "Magic Momentzzz",
+  "descriptor": "Catering Services",
+  "address": "near Co operative bank, Malippara, Keralam 686681",
+  "area": "Malippara",
+  "city": "Keralam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686681",
+  "geo": {
+    "lat": 10.1164308,
+    "lng": 76.6408232
+  },
+  "mapsLink": "https://maps.google.com/?cid=11036228470627828229",
+  "phone": "+91 98468 60200",
+  "whatsapp": "919846860200",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "name": "Eldhose Yacob",
+      "rating": 5,
+      "quote": "Its a good catering service quality and tasty food are there main highlight and pleased with it giving a full star"
+    },
+    {
+      "name": "Jinse Eldhose",
+      "rating": 5,
+      "quote": "Top quality food and good tasty aslo my dad retirement party done by then and its good"
+    },
+    {
+      "name": "Jinse Eldhose",
+      "rating": 5,
+      "quote": "Food is tasty and good quality"
+    },
+    {
+      "name": "amos antony",
+      "rating": 5,
+      "quote": "Tasty and quality food...Also good service"
+    },
+    {
+      "name": "Akhil Padmanabhan",
+      "rating": 5,
+      "quote": "Delicious food with good customer service.recommended for any kind of function."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://magic-momentzzz-caterers-kothamanga.vercel.app"
+}
